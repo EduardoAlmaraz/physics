@@ -288,3 +288,4 @@
     a) La altura máxima alcanzada por la pelota ($h_{\text{max}}$) es aproximadamente $14.29 \, \text{m}$.
     b) El alcance horizontal de la pelota ($R$) es aproximadamente $56.74 \, \text{m}$.
     c) El ángulo de llegada al piso ($\theta$) es $40^\circ$.
+5. 
