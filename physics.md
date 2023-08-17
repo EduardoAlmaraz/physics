@@ -138,9 +138,9 @@
 
     b) La altura máxima ($h_{\text{max}}$) es $30.625 \, \text{m}$.
 
-    c) La velocidad a los 3 segundos ($v_{\text{3s}}$) es $-9.9 \, \text{m/s}$.
+    c) La velocidad a los 3 segundos ($v_{\text{3s}}$) es $-4.9 \, \text{m/s}$.
 
-    d) La posición a los 3 segundos ($h_{\text{3s}}$) es $36.75 \, \text{m}$.
+    d) La posición a los 3 segundos ($h_{\text{3s}}$) es $29.4 \, \text{m}$.
 3. Un transbordador sale disparado hacia el espacio con una velocidad de 900km/h para poner en órbita un satélite, determine lo siguiente:
    
     a) ¿Cuál será la velocidad del transbordador a los 2 segundos de su lanzamiento?
