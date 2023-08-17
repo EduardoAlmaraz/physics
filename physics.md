@@ -114,7 +114,7 @@
 
     $$v_{\text{3s}} = 24.5 \, \text{m/s} - 9.8 \, \text{m/s}^2 \cdot 3 \, \text{s}$$
 
-    $$v_{\text{3s}} = -9.9 \, \text{m/s}$$
+    $$v_{\text{3s}} = -4.9 \, \text{m/s}$$
 
     d) Para determinar la posición del balón a los 3 segundos ($h_{\text{3s}}$), podemos usar la ecuación de la cinemática para el desplazamiento vertical:
 
@@ -130,7 +130,7 @@
 
     $$h_{\text{3s}} = 24.5 \, \text{m/s} \cdot 3 \, \text{s} + \frac{1}{2} \cdot (-9.8 \, \text{m/s}^2) \cdot (3 \, \text{s})^2$$
 
-    $$h_{\text{3s}} = 36.75 \, \text{m}$$
+    $$h_{\text{3s}} = 29.4 \, \text{m}$$
 
     Para resumir:
 
@@ -149,57 +149,54 @@
 
     c) Considerando la velocidad de 250m/s ¿Cuál será la máxima altura alcanzada por el transbordador?
 
-    Para resolver este problema, podemos utilizar las ecuaciones de la cinemática para movimiento uniforme.
+    Para resolver estas preguntas, podemos utilizar las ecuaciones del movimiento uniformemente acelerado, dado que el transbordador se lanza con una velocidad inicial y está sujeto a la aceleración debida a la gravedad.
 
-    Primero, necesitamos convertir la velocidad del transbordador a m/s, ya que las ecuaciones de la cinemática generalmente se usan en unidades del Sistema Internacional (SI). La velocidad inicial del transbordador es de $900 \, \text{km/h}$, que es equivalente a $250 \, \text{m/s}$ (ya que $1 \, \text{km} = 1000 \, \text{m}$ y $1 \, \text{h} = 3600 \, \text{s}$).
+    Primero, necesitamos convertir la velocidad inicial del transbordador de km/h a m/s:
+    $$ \text{Velocidad inicial} = 900 \, \text{km/h} = \frac{900 \times 1000}{3600} \, \text{m/s} \approx 250 \, \text{m/s} $$
 
-    a) La velocidad del transbordador a los 2 segundos ($v_{2s}$) se puede calcular utilizando la siguiente ecuación de la cinemática para el movimiento uniforme:
+    a) ¿Cuál será la velocidad del transbordador a los 2 segundos de su lanzamiento?
 
-    $$v = v_0 + a \cdot t$$
+    Podemos usar la ecuación de velocidad en movimiento uniformemente acelerado:
+    $$ v = u + at $$
 
     Donde:
-    - $v_{2s}$ es la velocidad a los 2 segundos (lo que estamos buscando).
-    - $v_0$ es la velocidad inicial (250 m/s).
-    - $a$ es la aceleración (en este caso, asumimos que la aceleración es cero, ya que no se menciona un cambio en la velocidad).
+    - $v$ es la velocidad final.
+    - $u$ es la velocidad inicial (250 m/s).
+    - $a$ es la aceleración debida a la gravedad (-9.8 m/s²).
     - $t$ es el tiempo (2 segundos).
 
     Sustituyendo los valores conocidos:
+    $$ v = 250 \, \text{m/s} - (9.8 \, \text{m/s}²)(2 \, \text{s}) $$
+    $$ v = 250 \, \text{m/s} - 19.6 \, \text{m/s} $$
+    $$ v = 230.4 \, \text{m/s} $$
 
-    $$v_{2s} = 250 \, \text{m/s} + 0 \cdot 2 \, \text{s} = 250 \, \text{m/s}$$
+    La velocidad del transbordador a los 2 segundos de su lanzamiento es aproximadamente 230.4 m/s.
 
-    b) El tiempo que tardará el transbordador en alcanzar el punto más alto es la mitad del tiempo total de vuelo. Esto se debe a que el transbordador primero acelerará hacia arriba hasta que su velocidad sea cero en el punto más alto, y luego comenzará a descender con la misma cantidad de tiempo que le tomó subir.
+    b) ¿Cuánto tiempo tardará en alcanzar el punto más alto?
 
-    El tiempo total de vuelo se puede encontrar dividiendo la velocidad inicial (250 m/s) por la aceleración debida a la gravedad ($g = 9.8 \, \text{m/s}^2$):
+    En el punto más alto de su trayectoria, la velocidad del transbordador será cero. Utilizamos la misma ecuación de velocidad, pero esta vez $v = 0$ y queremos resolver para $t$:
+    $$ v = u + at $$
+    $$ 0 = 250 \, \text{m/s} - (9.8 \, \text{m/s}²) t $$
+    $$ t = \frac{250 \, \text{m/s}}{9.8 \, \text{m/s}²} \approx 25.51 \, \text{s} $$
 
-    $$t_{\text{total}} = \frac{250 \, \text{m/s}}{9.8 \, \text{m/s}^2} \approx 25.51 \, \text{s}$$
+    El transbordador tardará aproximadamente 25.51 segundos en alcanzar el punto más alto.
 
-    Por lo tanto, el tiempo que tardará en alcanzar el punto más alto será la mitad de $t_{\text{total}}$:
+    c) Considerando la velocidad de 250 m/s, ¿Cuál será la máxima altura alcanzada por el transbordador?
 
-    $$t_{\text{subida}} = \frac{t_{\text{total}}}{2} \approx 12.76 \, \text{s}$$
-
-    c) Para determinar la máxima altura alcanzada por el transbordador, podemos usar la ecuación de la cinemática para el desplazamiento vertical durante el movimiento uniformemente acelerado:
-
-    $$h = v_0 \cdot t + \frac{1}{2} a \cdot t^2$$
+    Para determinar la altura máxima, podemos usar la ecuación de posición en movimiento uniformemente acelerado:
+    $$ s = ut + \frac{1}{2} a t^2 $$
 
     Donde:
-    - $h$ es la altura máxima (lo que estamos buscando).
-    - $v_0$ es la velocidad inicial (250 m/s).
+    - $s$ es la posición (altura en este caso).
+    - $u$ es la velocidad inicial (250 m/s).
     - $a$ es la aceleración debida a la gravedad (-9.8 m/s²).
-    - $t$ es el tiempo para alcanzar la altura máxima (12.76 s).
+    - $t$ es el tiempo (el tiempo que tarda en alcanzar el punto más alto, 25.51 segundos).
 
     Sustituyendo los valores conocidos:
+    $$ s = (250 \, \text{m/s})(25.51 \, \text{s}) + \frac{1}{2} (-9.8 \, \text{m/s}²)(25.51 \, \text{s})^2 $$
+    $$ s \approx 3189.75 \, \text{m} $$
 
-    $$h_{\text{max}} = 250 \, \text{m/s} \cdot 12.76 \, \text{s} + \frac{1}{2} \cdot (-9.8 \, \text{m/s}^2) \cdot (12.76 \, \text{s})^2$$
-
-    $$h_{\text{max}} \approx 19168.75 \, \text{m}$$
-
-    Para resumir:
-
-    a) La velocidad del transbordador a los 2 segundos ($v_{2s}$) es $250 \, \text{m/s}$.
-
-    b) El tiempo que tardará en alcanzar el punto más alto ($t_{\text{subida}}$) es aproximadamente $12.76 \, \text{s}$.
-
-    c) La máxima altura alcanzada por el transbordador ($h_{\text{max}}$) es aproximadamente $19168.75 \, \text{m}$.
+    La máxima altura alcanzada por el transbordador es aproximadamente 3189.75 metros.
 4. Un jugador patea la pelota con una velocidad inicial de 22m/s y con un ángulo de 40° respecto al eje horizontal, calcular:
 
     a) Altura máxima alcanzada por la pelota
